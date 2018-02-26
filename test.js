@@ -104,7 +104,7 @@ keys.forEach(
                         {
                             _k.push(wrap(key3));
                         }
-                        cmp(vueToolsSplit(_k.join('\n')));
+                        cmp(vueToolsSplit.split(_k.join('\n')));
                     }
                 )
             }
