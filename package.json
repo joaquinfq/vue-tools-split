@@ -1,0 +1,19 @@
+{
+    "name"        : "vue-tools-split",
+    "version"     : "1.0.0",
+    "description" : "Split a `.vue` file into `script.js`, `style.css` and `template.html`.",
+    "author"      : "Joaquín Fernández",
+    "license"     : "MIT",
+    "homepage"    : "http://www.joaquinfernandez.net",
+    "repository"  : {
+        "type" : "git",
+        "url"  : "https://github.com/joaquinfq/vue-tools-split"
+    },
+    "keywords"    : [
+        "vue",
+        "vue-cli",
+        "vue-split",
+        "vue-tools",
+        "vue-utils"
+    ]
+}
